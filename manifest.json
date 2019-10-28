@@ -1,0 +1,12 @@
+{
+    "files": {
+        "README.md": "3b292384ec8159f1b6397ba718c32d554acf3b89b109c08875a901202aa20696",
+        "index.js": "7b46a5e1f1c296f28c7bb66b6f63e08b1c23584d1b29ef0d141d176df3569dff",
+        "module.json": "7fd47085e1e9f0021c4928576f62899123770a86a88cfba89241a8b07da46a51"
+    },
+    "defs": {
+        "C_SELECT_CHANNEL": 1,
+        "S_CURRENT_CHANNEL": 2,
+        "S_LOAD_TOPO": 3
+    }
+}
