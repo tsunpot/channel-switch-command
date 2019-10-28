@@ -1,7 +1,0 @@
-{
-    "disableAutoUpdate": false,
-    "name": "channel-switch-command-master",
-    "description": "Description goes here.",
-    "supportUrl": ["https://github.com/tsunpot/channel-switch-command"],
-    "servers": ["https://raw.githubusercontent.com/tsunpot/channel-switch-command/master/"]
-}
