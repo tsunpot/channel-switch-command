@@ -3,6 +3,6 @@
     "name": "channel-switch-command-master",
     "author": "Tsunpot / Snug",
     "description": "Switches channels though key inputs.",
-    "supportUrl": ["https://github.com/tsunpot/channel-switch-command/"],
+    "supportUrl": "https://github.com/tsunpot/channel-switch-command/",
     "servers": ["https://raw.githubusercontent.com/tsunpot/channel-switch-command/master/"]
 }
