@@ -13,4 +13,4 @@ If used in the proxy chat channel or /8 remove the "!" from the command
 
 Requires Command: https://github.com/pinkipi/command
 
-NA/EU opcode for patch #86: C_SELECT_CHANNEL = 45788
+NA/EU opcode for patch #87: C_SELECT_CHANNEL = 20656
